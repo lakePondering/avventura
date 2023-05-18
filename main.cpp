@@ -53,8 +53,8 @@ public:
 private:
 	std::string NAME;
 };
-//creature//
-class creature 
+//World//
+class world 
 {
 public:
 	creature();
