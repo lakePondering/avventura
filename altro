@@ -1,0 +1,12 @@
+void f_printWeight(int weight_N)
+{
+	double _weight_D = weight_N;
+	weight_N = _weight_D/1000;
+	std::cout<<weight_N<<"Kg";
+};
+void f_printSize(int size_N)
+{
+	double _size_D = size_N;
+	size_N = _size_D/1000;
+	std::cout<<size_N<<"L";
+};
