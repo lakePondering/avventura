@@ -1,4 +1,4 @@
-//functons.cpp
+//functions.cpp
 #include "global.hpp"
 //(int)razza = (int)Hp della razza
 const int raceHp_f(int race_N) 

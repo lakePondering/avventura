@@ -1,7 +1,7 @@
 //main.cpp
 #include "global/global.hpp"
-#include "part.hpp"
 #include "creature.hpp"
+
 
 int main (){
     init_Random();

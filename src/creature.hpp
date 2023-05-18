@@ -1,8 +1,10 @@
 //creature.hpp
 #ifndef _CREATURE_HPP_
 #define _CREATURE_HPP_
-#include "global/global.hpp"
+
 #include "part.hpp"
+#include "global/global.hpp"
+
 class creature
 {
 public:
